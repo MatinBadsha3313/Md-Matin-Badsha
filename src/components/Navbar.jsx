@@ -14,7 +14,7 @@ const Navbar = () => {
         <div className="md:w-40 w-32 overflow-hidden">
           <a target="_self" href="/">
             <img
-              src="../public/Images/MMBadsha-Logo.png"
+              src="./Images/MMBadsha-Logo.png"
               alt="logo"
               className="w-full h-full mix-blend-multiply"
             />
